@@ -1,0 +1,7 @@
+Saren jest 19
+Wilkow jest 19
+Niedzwiedzi jest 22
+Procentowo
+Niedzwiedzi jest 36.666668%
+Wilków jest 31.666666%
+Saren jest 31.666666%
